@@ -1,0 +1,9 @@
+[package]
+name = "holographic-storage"
+version = "0.1.0"
+edition = "2021"
+description = "Distributed holographic encoding for redundant storage with interference pattern data encoding and partial data reconstruction"
+repository = "https://github.com/SuperInstance/holographic-storage"
+license = "MIT"
+
+[dev-dependencies]
